@@ -76,7 +76,6 @@ For a trained model, reproduction scripts, etc., [see repository](https://github
 
 We would like to thank all the people who contributed to this corpus:
 
-Amir Ejmail
 Emmanuelle Kowner
 Israel Landau
 Maayan Orner
