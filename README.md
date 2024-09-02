@@ -18,7 +18,7 @@ organisation (59%), Israel Hayom news organisation (5%), Knesset protocols
 The corpus has been annotated with morpheme-level mention spans,
 assembled into coreference clusters with entity types.
 
-## Data set
+## Dataset
 
 ### The current release includes the following files (annotated documents):
 - coref-5-heb.jsonl: Hebrew articles.
