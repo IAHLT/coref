@@ -2,14 +2,15 @@
 
 האיגוד הישראלי לטכנולוגיות שפת אנוש
 الرابطة الإسرائيلية لتكنولوجيا اللغة البشرية
+
 The Israeli Association of Human Language Technologies
 https://www.iahlt.org
 
-Our corpus for contemporary Hebrew, covering a variety of text types and genres.
+Our coreference corpus for contemporary Hebrew, covering a variety of text types and genres.
 
 ## Introduction
 
-The corpus consists of Weizmann popular science articles  (43%); 910 heb articles from the All Rights
+The corpus consists of Weizmann popular science articles (43%); 910 heb articles from the All Rights
 entitlements organisation  (12%), Bagatz court decisions (4%), Davar news
 organisation (59%), Israel Hayom news organisation (5%), Knesset protocols
 (4%), Weizmann popular science articles (4%), Hebrew Wikipedia entries (8%);.
@@ -31,7 +32,8 @@ multiple times.
 
 The jsonl structure is:
 ```
-{ text: str, 
+{
+  text: str, 
   user: str,
   metadata: { source: str, doc_id: str, ... },
   clusters: [ {
@@ -57,17 +59,17 @@ a future release.
 ## Statistics
 ### coref-5-heb:
 - Number of documents: 910
-- Number of clusters: 28141
-- Number of mentions: 121067
-- Approximated number of sentences: 37614
-- Approximated number of unique sentences: 30018
+- Number of clusters: 28,141
+- Number of mentions: 121,067
+- Approximated number of sentences: 37,614
+- Approximated number of unique sentences: 30,018
 
 ### coref-5-heb-unique:
 - Number of documents: 658
-- Number of clusters: 22712
-- Number of mentions: 97804
-- Approximated number of sentences: 30018
-- Approximated number of unique sentences: 30018
+- Number of clusters: 22,712
+- Number of mentions: 97,804
+- Approximated number of sentences: 30,018
+- Approximated number of unique sentences: 30,018
 
 ## Code:
 For a trained model, reproduction scripts, etc., [see repository](https://github.com/IAHLT/hebrew_coref).
