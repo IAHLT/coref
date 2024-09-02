@@ -1,4 +1,4 @@
-# Coreference Project
+# Coreference Dataset in Hebrew
 
 האיגוד הישראלי לטכנולוגיות שפת אנוש
 الرابطة الإسرائيلية لتكنولوجيا اللغة البشرية
@@ -71,19 +71,19 @@ a future release.
 - Approximated number of sentences: 30,018
 - Approximated number of unique sentences: 30,018
 
-## Code:
+## Code
 For a trained model, reproduction scripts, etc., [see repository](https://github.com/IAHLT/iahlt_coref_he).
 
 ## Acknowledgments
 
 We would like to thank all the people who contributed to this corpus:
 
-Emmanuelle Kowner
-Israel Landau
-Maayan Orner
-Nick Howell
-Noam Ordan
-Omer Strass
-Shahar Adar
-Shira Wigderson
+Emmanuelle Kowner</br>
+Israel Landau</br>
+Maayan Orner</br>
+Nick Howell</br>
+Noam Ordan</br>
+Omer Strass</br>
+Shahar Adar</br>
+Shira Wigderson</br>
 Yifat Ben Moshe
