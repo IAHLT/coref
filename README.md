@@ -72,7 +72,7 @@ a future release.
 - Approximated number of unique sentences: 30,018
 
 ## Code:
-For a trained model, reproduction scripts, etc., [see repository](https://github.com/IAHLT/hebrew_coref).
+For a trained model, reproduction scripts, etc., [see repository](https://github.com/IAHLT/iahlt_coref_he).
 
 ## Acknowledgments
 
